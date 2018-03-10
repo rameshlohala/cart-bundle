@@ -1,15 +1,9 @@
 {
-    "name": "thenbsp/cart-bundle",
-    "description": "Shopping Cart Bundle for Symfony2",
-    "keywords": ["Shopping", "Cart", "CartBundle", "购物车", "商城"],
+    "name": "rameshlohala/cart-bundle",
+    "description": "Shopping Cart Bundle for Symfony",
+    "keywords": ["Shopping", "Cart", "CartBundle"],
     "homepage": "http://github.com/thenbsp/CartBundle",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "thenbsp",
-            "email": "thenbsp@gmail.com"
-        }
-    ],
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.9",
